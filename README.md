@@ -1,4 +1,4 @@
-# react-redux-mongoDB-todoadd
+# react-redux-mongoDB-todoapp
 
 > A simple todolist app built with React, Redux & MongoDB.
 
