@@ -6,7 +6,7 @@ Implement the basics of RESTful API.
 
 ## Development
 
-go to `[root dir]/clint/`:
+go to `[root dir]/client/`:
 
 Run
 
